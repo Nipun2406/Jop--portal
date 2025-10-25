@@ -162,5 +162,7 @@ B.Tech (Computer Engineering), Delhi Technological University (DTU)
 
 
 
-![Screenshot 1](assets/screenshot1.png)
-![Screenshot 2](assets/screenshot2.png)
+![Screenshot 1](https://raw.githubusercontent.com/Nipun2406/Jop--portal/main/assets/Screenshot%201.png)
+![Screenshot 2](https://raw.githubusercontent.com/Nipun2406/Jop--portal/main/assets/Screenshot%202.png)
+
+
